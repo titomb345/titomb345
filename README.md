@@ -29,14 +29,6 @@ Full-stack engineer in Denver, CO building tools developers actually want to use
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=titomb345&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=titomb345&show_icons=true&theme=default&hide_border=true" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=titomb345&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</picture>
-
 ## Connect
 
 [![Website](https://img.shields.io/badge/billbergquist.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://billbergquist.dev)

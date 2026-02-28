@@ -12,7 +12,7 @@ Full-stack engineer in Denver, CO building tools developers actually want to use
 
 🎯 **[DartForge](https://github.com/titomb345/dartforge)** — Custom-built MUD client for DartMUD.
 
-🏈 **[Sports Shortcuts](https://sportsshortcuts.com)** — Sports content platform.
+🏈 **[Sports Shortcuts](https://sportsshortcuts.com)** — Tool for quickly creating NFL and NBA alerts for social media.
 
 🌐 **[billbergquist.dev](https://billbergquist.dev)** — Personal site.
 

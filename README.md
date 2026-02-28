@@ -6,7 +6,9 @@ Full-stack engineer in Denver, CO building tools developers actually want to use
 
 🔥 **[isBurner](https://isburner.com)** — Disposable email detection API. Sub-50ms responses at the edge via Cloudflare Workers. Helps developers keep fake signups out of their apps.
 
-🐾 **[Critter Care](https://critter-care.com)** — Boutique pet boarding service platform.
+📊 **[CreatiCalc](https://creaticalc.com)** — Creator economy calculator and benchmarking tools.
+
+🐾 **[Critter Care](https://critter-care.com)** — Website for a boutique pet boarding service in Lawndale, CA.
 
 🎯 **[DartForge](https://github.com/titomb345/dartforge)** — TypeScript project.
 
@@ -29,11 +31,13 @@ Full-stack engineer in Denver, CO building tools developers actually want to use
 
 ## GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=titomb345&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=titomb345&show_icons=true&theme=default&hide_border=true" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=titomb345&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</picture>
+<a href="https://github.com/titomb345">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=titomb345&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=titomb345&show_icons=true&theme=default&hide_border=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=titomb345&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  </picture>
+</a>
 
 ## Connect
 

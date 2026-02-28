@@ -31,13 +31,11 @@ Full-stack engineer in Denver, CO building tools developers actually want to use
 
 ## GitHub Stats
 
-<a href="https://github.com/titomb345">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=titomb345&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=titomb345&show_icons=true&theme=default&hide_border=true" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=titomb345&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=titomb345&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=titomb345&show_icons=true&theme=default&hide_border=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=titomb345&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</picture>
 
 ## Connect
 

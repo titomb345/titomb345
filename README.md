@@ -10,7 +10,7 @@ Full-stack engineer in Denver, CO building tools developers actually want to use
 
 🐾 **[Critter Care](https://critter-care.com)** — Website for a boutique pet boarding service in Lawndale, CA.
 
-🎯 **[DartForge](https://github.com/titomb345/dartforge)** — TypeScript project.
+🎯 **[DartForge](https://github.com/titomb345/dartforge)** — Custom-built MUD client for DartMUD.
 
 🏈 **[Sports Shortcuts](https://sportsshortcuts.com)** — Sports content platform.
 

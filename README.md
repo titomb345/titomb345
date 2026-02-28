@@ -4,7 +4,7 @@ Full-stack engineer in Denver, CO building tools developers actually want to use
 
 ## What I'm Building
 
-🔥 **[isBurner](https://isburner.com)** — Disposable email detection API. Sub-50ms responses at the edge via Cloudflare Workers. Helps developers keep fake signups out of their apps.
+🔥 **isBurner** — Disposable email detection API. Coming soon.
 
 📊 **[CreatiCalc](https://creaticalc.com)** — Creator economy calculator and benchmarking tools.
 

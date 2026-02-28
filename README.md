@@ -1,5 +1,7 @@
 # Hey, I'm Bill 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=titomb345&color=brightgreen&style=flat-square)
+
 Full-stack engineer in Denver, CO building tools developers actually want to use. Been shipping code since 2011.
 
 ## What I'm Building
@@ -13,6 +15,8 @@ Full-stack engineer in Denver, CO building tools developers actually want to use
 🎯 **[DartForge](https://github.com/titomb345/dartforge)** — Custom-built MUD client for DartMUD.
 
 🏈 **[Sports Shortcuts](https://sportsshortcuts.com)** — Tool for quickly creating NFL and NBA alerts for social media.
+
+💣 **[Minesweeper: Descent](https://billbergquist.dev/arcade/descent)** — A Minesweeper game.
 
 🌐 **[billbergquist.dev](https://billbergquist.dev)** — Personal site.
 

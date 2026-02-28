@@ -16,7 +16,7 @@ Full-stack engineer in Denver, CO building tools developers actually want to use
 
 🏈 **[Sports Shortcuts](https://sportsshortcuts.com)** — Tool for quickly creating NFL and NBA alerts for social media.
 
-💣 **[Minesweeper: Descent](https://billbergquist.dev/arcade/descent)** — A Minesweeper game.
+💣 **[Minesweeper: Descent](https://billbergquist.dev/arcade/descent)** — Roguelike minesweeper. Descend 10 floors of escalating danger. Collect power-ups to survive.
 
 🌐 **[billbergquist.dev](https://billbergquist.dev)** — Personal site.
 

@@ -6,19 +6,13 @@ Full-stack engineer in Denver, CO building tools developers actually want to use
 
 ## What I'm Building
 
-🔥 **isBurner** — Disposable email detection API. Coming soon.
-
 📊 **[CreatiCalc](https://creaticalc.com)** — Creator economy calculator and benchmarking tools.
-
-🐾 **[Critter Care](https://critter-care.com)** — Website for a boutique pet boarding service in Lawndale, CA.
 
 🎯 **[DartForge](https://github.com/titomb345/dartforge)** — Custom-built MUD client for DartMUD.
 
 🏈 **[Sports Shortcuts](https://sportsshortcuts.com)** — Tool for quickly creating NFL and NBA alerts for social media.
 
-💣 **[Minesweeper: Descent](https://billbergquist.dev/arcade/descent)** — Roguelike minesweeper. Descend 10 floors of escalating danger. Collect power-ups to survive.
-
-🌐 **[billbergquist.dev](https://billbergquist.dev)** — Personal site.
+🌐 **[billbergquist.dev](https://billbergquist.dev)** — My small-business website selling small-business websites.
 
 ## Tech Stack
 

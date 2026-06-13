@@ -4,14 +4,6 @@
 
 Full-stack engineer in Denver, CO building tools developers actually want to use. Been shipping code since 2011.
 
-## What I'm Building
-
-📊 **[CreatiCalc](https://creaticalc.com)** — Creator economy calculator and benchmarking tools.
-
-🎯 **[DartForge](https://github.com/titomb345/dartforge)** — Custom-built MUD client for DartMUD.
-
-🏈 **[Sports Shortcuts](https://sportsshortcuts.com)** — Tool for quickly creating NFL and NBA alerts for social media.
-
 🌐 **[billbergquist.dev](https://billbergquist.dev)** — My small-business website selling small-business websites.
 
 ## Tech Stack
